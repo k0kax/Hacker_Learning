@@ -138,8 +138,10 @@ git config --global --unset https.proxy
 远程仓库同步到本地仓库，需要从远程pull下来
 ~~git pull origin master~~ git pull强制覆盖本地的代码方式,且这个东西贼几把难用，推荐以下方法：
 `git fetch --all`
+
 然后，你有两个选择：
 `git reset --hard origin/master`
+
 或者如果你在其他分支上：
 `git reset --hard origin/<branch_name>`
 
