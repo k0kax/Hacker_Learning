@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "65bc1d22d565d818",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ce68b62f063bfb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02343479bc8acf80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67634fa9c8fa04c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afcca0ceeb4462c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad4b11d8db50a7a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd114dd23a1aa5b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "314b951ddac38778",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b62edf49b4da0004",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "11ba5a86cf22607a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d3cf8b92909c1b42",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5484ee19937b6d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ea39eb30c60f339",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92b0287e8bec6516",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9f76e05ea67985a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "728af1cf20e8f214",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "67634fa9c8fa04c3",
+  "lastOpenFiles": [
+    "2023-05-03.md",
+    "关于提升效率的一点想法和计划.md",
+    "Penetration_testing_Learning/SpringBoot开发日记/SpringBoot热部署.md",
+    "SpringBoot开发日记/Pasted image 20230710171023.png",
+    "SpringBoot开发日记/SpringBoot热部署.md",
+    "SpringBoot开发日记/Pasted image 20230710165715.png",
+    "SpringBoot开发日记/Pasted image 20230507200946.png",
+    "SpringBoot开发日记/Pasted image 20230507200922.png",
+    "SpringBoot开发日记",
+    "图片库/vulnhub/03brainpan/02.png",
+    "图片库/vulnhub/03brainpan/01.png",
+    "图片库/vulnhub/03brainpan",
+    "图片库/vulnhub",
+    "图片库",
+    "其他工具/Github基础功能使用指南.md",
+    "其他工具",
+    "密码学/RSA.md",
+    "密码学/AES.md",
+    "密码学",
+    "常用模板/vulnhub模板.md",
+    "常用模板/vulhub漏洞利用模板.md",
+    "常用模板/Try_hack_me模板.md",
+    "常用模板/Hack_the_box模板.md",
+    "常用模板",
+    "vulnhub靶机/靶机02--matrix-breakout-2-morpheus.md",
+    "vulnhub靶机/靶机03--brainpan.md",
+    "vulnhub靶机/靶机01--Billu_b0x.md",
+    "vulnhub靶机",
+    "msf使用/1.metasploit基础介绍_md_files/2a9880a0-b627-11ec-b129-9d3e3b1d911b.jpeg",
+    "msf使用/1.metasploit基础介绍_md_files/01.png",
+    "msf使用/附加Linux的端口与防火墙设置.md",
+    "msf使用/附加Cobalt Strike简易使用.md",
+    "msf使用/测试.png",
+    "msf使用/代码.zip",
+    "msf使用/CS0.0.3.png",
+    "msf使用/9-2Ruby的对象.md",
+    "msf使用/9-1Ruby初探.md",
+    "msf使用/8.对未知目标的测试.md",
+    "msf使用/7.metasploit基础命令.md",
+    "msf使用/6000字典 - 复制 .txt",
+    "msf使用/6.metasploit认证信息抓取.md",
+    "msf使用/5.metasploit基础知识.md",
+    "msf使用/4.metasploit多目标测试.md",
+    "msf使用/3.metasploit可视化实验.md",
+    "msf使用/27-0Msfvenom使用.md",
+    "msf使用/26-0权限维持.md",
+    "未命名.canvas"
+  ]
+}
