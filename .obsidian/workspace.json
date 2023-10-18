@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67634fa9c8fa04c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docker/docker使用入门.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,13 +154,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67634fa9c8fa04c3",
+  "active": "02343479bc8acf80",
   "lastOpenFiles": [
-    "超链接地址.md",
-    "2023-05-03.md",
-    "docker/docker使用入门.md",
-    "docker",
     "关于提升效率的一点想法和计划.md",
+    "2023-05-03.md",
+    "超链接地址.md",
+    "Github/Github基础功能使用指南.md",
+    "docker/docker使用入门.md",
+    "Github",
+    "docker",
     "Penetration_testing_Learning/SpringBoot开发日记/SpringBoot热部署.md",
     "SpringBoot开发日记/Pasted image 20230710171023.png",
     "SpringBoot开发日记/SpringBoot热部署.md",
@@ -186,7 +175,6 @@
     "图片库/vulnhub/03brainpan",
     "图片库/vulnhub",
     "图片库",
-    "其他工具/Github基础功能使用指南.md",
     "其他工具",
     "密码学/RSA.md",
     "密码学/AES.md",
@@ -205,7 +193,6 @@
     "msf使用/附加Linux的端口与防火墙设置.md",
     "msf使用/附加Cobalt Strike简易使用.md",
     "msf使用/测试.png",
-    "msf使用/代码.zip",
     "msf使用/CS0.0.3.png",
     "msf使用/9-2Ruby的对象.md",
     "msf使用/9-1Ruby初探.md",
@@ -214,7 +201,6 @@
     "msf使用/6.metasploit认证信息抓取.md",
     "msf使用/5.metasploit基础知识.md",
     "msf使用/4.metasploit多目标测试.md",
-    "msf使用/3.metasploit可视化实验.md",
     "未命名.canvas"
   ]
 }
