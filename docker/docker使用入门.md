@@ -27,5 +27,4 @@ docker load -i 路径/image.tar
 `docker exec -it container-id(或容器名) /bin/bash`
 
 #### 6.容器管理工具
-推荐[超链接显示名](超链接地址 "超链接title")
-[href=]
+推荐[EasyDockerWeb]("https://github.com/qfdk/EasyDockerWeb")
