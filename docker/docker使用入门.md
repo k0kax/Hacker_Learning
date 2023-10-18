@@ -1,4 +1,6 @@
-
+#### 1.容器--->镜像
+```
+```
 
 生成镜像：docker commit -a “koka” -m “halo” b18181a154f3（或容器名） halo:v1.0
 
