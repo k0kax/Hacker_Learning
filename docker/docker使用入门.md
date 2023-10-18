@@ -7,13 +7,12 @@ ocker commit vulfocus（容器名） new-image:v1.0（镜像）:(tag)
 
 #### 2.镜像--->tar
 ```docker
-docker save -o image.tar（包名） image-name:tag（镜像名）
+docker save -o 路径/image.tar（包名） image-name:tag（镜像名）
 ```
-例如`docker save -o l/vulf.tar vulf`
+例如`docker save -o 路径/vulf.tar vulf`
 #### 3.容器 --->tar
 
-
-容器打包：docker export -o container.tar（容器包名） container-id（容器名）
+`docker export -o /container.tar（容器包名） container-id（容器名）`
 
 导入镜像：docker load -i 地址/image.tar
 
