@@ -12,8 +12,11 @@ docker save -o 路径/image.tar（包名） image-name:tag（镜像名）
 例如`docker save -o 路径/vulf.tar vulf`
 #### 3.容器 --->tar
 
-`docker export -o /container.tar（容器包名） container-id（容器名）`
-
+```docker
+docker export -o 路径/container.tar（容器包名） container-id（容器名）
+```
+#### 4.镜像包导入
+··
 导入镜像：docker load -i 地址/image.tar
 
 进入容器内部查看并运行shell: docker exec -it container-id(或容器名) /bin/bash
