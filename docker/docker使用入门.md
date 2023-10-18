@@ -17,8 +17,9 @@ docker export -o 路径/container.tar（容器包名） container-id（容器名
 ```
 #### 4.镜像包导入
 ```docker
-docker load -i 地址/image.tar
+docker load -i 路径/image.tar
 ```
 例如`docker load -i /path/to/vulf.tar`
 
-进入容器内部查看并运行shell: docker exec -it container-id(或容器名) /bin/bash
+#### 5.进入容器查看
+`docker exec -it container-id(或容器名) /bin/bash`
