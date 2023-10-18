@@ -1,8 +1,9 @@
 #### 1.容器--->镜像
-```
+```docker
+ocker commit vulfocus（容器名） new-image:v1.0（镜像）:(tag)
 ```
 
-生成镜像：docker commit -a “koka” -m “halo” b18181a154f3（或容器名） halo:v1.0
+例如生成镜像：`docker commit -a “koka” -m “halo” b18181a154f3（或容器名） halo:v1.0`
 
 容器-->镜像：docker commit vulfocus（容器） new-image:v1.0（镜像）
 
