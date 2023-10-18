@@ -9,7 +9,7 @@ ocker commit vulfocus（容器名） new-image:v1.0（镜像）:(tag)
 ```docker
 docker save -o image.tar（包名） image-name:tag（镜像名）
 ```
-例如
+例如`docker save -o l/vulf.tar vulf`
 #### 3.容器 --->tar
 
 
