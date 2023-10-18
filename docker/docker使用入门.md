@@ -16,7 +16,7 @@ docker save -o 路径/image.tar（包名） image-name:tag（镜像名）
 ```docker
 docker export -o 路径/container.tar（容器包名） container-id（容器名）
 ```
-这一步感觉用处不大
+这一步感觉用处不大，很容易出问题
 #### 4.镜像包导入
 ```docker
 docker load -i 路径/image.tar
@@ -25,3 +25,6 @@ docker load -i 路径/image.tar
 
 #### 5.进入容器查看
 `docker exec -it container-id(或容器名) /bin/bash`
+
+#### 6.容器管理工具
+推荐
