@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待办/代办目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待办/代办目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "待办/代办目录.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,10 +151,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "02343479bc8acf80",
+  "active": "b62edf49b4da0004",
   "lastOpenFiles": [
-    "其他工具/图床.md",
     "待办/代办目录.md",
+    "其他工具/图床.md",
     "待办",
     "明日任务",
     "docker/docker使用入门---容器镜像的移动问题.md",
