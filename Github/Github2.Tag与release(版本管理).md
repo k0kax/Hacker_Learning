@@ -10,3 +10,9 @@
 
 ##### 1.4将本地tag提交到远程仓库
 `git push origin [标签名]`
+
+# 2.Release
+需要在网页端，配合tag使用即可，会生成相应的源码压缩包
+
+
+> 参考https://juejin.cn/post/7101196005843927071#heading-1
