@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "msf使用/1.metasploit基础介绍.md",
+                "file": "Github/Github2.Tag与release(版本管理).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "msf使用/1.metasploit基础介绍.md",
+                "file": "Github/Github2.Tag与release(版本管理).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "msf使用/1.metasploit基础介绍.md",
+                "file": "Github/Github2.Tag与release(版本管理).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "msf使用/1.metasploit基础介绍.md"
+                "file": "Github/Github2.Tag与release(版本管理).md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "02343479bc8acf80",
   "lastOpenFiles": [
+    "Github/Github1.基础功能使用指南.md",
+    "Github/Github2.Tag与release(版本管理).md",
     "msf使用/1.metasploit基础介绍.md",
-    "Github/Github基础功能使用指南.md",
     "待办/代办目录.md",
     "其他工具/图床.md",
     "待办",
@@ -201,7 +202,6 @@
     "msf使用/9-1Ruby初探.md",
     "msf使用/8.对未知目标的测试.md",
     "msf使用/7.metasploit基础命令.md",
-    "msf使用/6.metasploit认证信息抓取.md",
     "未命名.canvas"
   ]
 }
